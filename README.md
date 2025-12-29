@@ -2,25 +2,25 @@
 
 📌 Overview
 
-This repository contains a complete end-to-end Machine Learning project for Insurance Fraud Detection, implementing the full ML lifecycle—from raw data ingestion and validation to preprocessing, model training, evaluation, and batch prediction.
+This repository presents a complete end-to-end Machine Learning project for Insurance Fraud Detection, covering the entire ML lifecycle—from raw data ingestion and validation to data preprocessing, model training, evaluation, and batch prediction.
 
-The project follows industry-standard modular architecture, making it scalable, maintainable, and production-ready, similar to real-world ML systems used in enterprises.
+The project is built using an industry-standard modular architecture, ensuring scalability, maintainability, and production readiness, closely aligning with real-world enterprise ML systems.
 
 🚀 Key Features
 
-✔ End-to-end ML pipeline implementation
+End-to-end machine learning pipeline implementation
 
-✔ Training & prediction workflows separated
+Clear separation of training and prediction workflows
 
-✔ Schema-based data validation
+Schema-based data validation for reliability
 
-✔ Automated batch prediction pipeline
+Automated batch prediction pipeline
 
-✔ Best model selection logic
+Best model selection mechanism
 
-✔ Centralized logging & exception handling
+Centralized logging and exception handling
 
-✔ Clean, modular, and scalable folder structure
+Clean, modular, and scalable project structure
 
 🧠 Machine Learning Workflow
 
@@ -28,7 +28,7 @@ Data Ingestion
 
 Raw Data Validation (Training & Prediction)
 
-Data Transformation & Preprocessing
+Data Transformation and Preprocessing
 
 Model Training
 
