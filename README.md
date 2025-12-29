@@ -1,4 +1,5 @@
 🛡️ Insurance Fraud Detection – End-to-End Machine Learning Project
+
 📌 Overview
 
 This repository contains a complete end-to-end Machine Learning project for Insurance Fraud Detection, implementing the full ML lifecycle—from raw data ingestion and validation to preprocessing, model training, evaluation, and batch prediction.
